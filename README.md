@@ -1,2 +1,2 @@
 # WuuWeather
-Weather IOS app
+Weather IOS app SwiftUI
